@@ -1,3 +1,4 @@
+# Magic 8 Ball practice program
 import random
 def getAnswer(answerNumber):
     if answerNumber == 1:
